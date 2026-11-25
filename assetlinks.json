@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.skoblinvana_hub.twa",
-        "sha256_cert_fingerprints": ["0A:1F:6E:4E:7E:CD:6A:5B:99:41:A9:5D:B8:25:8B:F4:39:FF:A9:1B:0C:B3:93:DC:4F:D2:78:90:55:87:CD:FA"]
-      }
-    }]
